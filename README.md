@@ -8,6 +8,7 @@
 - React-icons
 - Tailwind CSS
 - Daisy Ui
+- PropTypes
 
 ## Requirements
 
