@@ -9,6 +9,8 @@
 - Tailwind CSS
 - Daisy Ui
 - PropTypes
+- Hooks (useState, useEffect, useReducer, createContext, useContext)
+- Framer Motion
 
 ## Requirements
 
