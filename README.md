@@ -9,13 +9,13 @@
 - Tailwind CSS
 - Daisy Ui
 - PropTypes
-- Hooks (useState, useEffect, useReducer, createContext, useContext)
+- Hooks (useState, useEffect, useReducer, createContext, useContext, useParams)
 - Framer Motion
+- Axios
 
 ## Requirements
 
-First, you should install dependencies using
-
+First, you should install dependencies using 
 ### npm install
 
 Second, you should create .env file in the root folder with following things:
